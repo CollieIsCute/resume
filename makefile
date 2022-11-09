@@ -9,6 +9,7 @@ clean:
 	rm -f *.fdb*
 	rm -f *.fls
 	rm -f *.log
+	rm -f *.out
 	rm -f *.run.xml
 	rm -f *.synctex*
 	rm -f *.toc

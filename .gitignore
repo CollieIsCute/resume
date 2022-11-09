@@ -6,7 +6,10 @@
 *.fdb*
 *.fls
 *.log
+*.out
 *.run.xml
 *.synctex*
 *.toc
 *.xdv
+.DS_Store
+.vscode
